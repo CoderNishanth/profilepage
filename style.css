@@ -1,0 +1,42 @@
+.f
+{
+    text-align: center;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIhSlrDwJ7T7fntKf1bYb7vNrT6NGdNO7FHw&usqp=CAU);
+    background-size: cover;
+    padding-bottom: 50px;
+
+}
+h1{
+    color:white;
+    padding-top: 40px;
+}
+p{
+    color:white;
+}
+#t0
+{
+    background-color:rgba(46, 97, 132, 0.5);
+    color: #fff; 
+}
+#t
+{
+    height:100px;
+    width:350px;
+    margin-top:10px;
+    background-color:rgba(46, 97, 132, 0.5);
+    color: #fff;
+}
+#t1
+{
+    height:100px;
+    width:350px;
+    background-color:rgba(46, 97, 132, 0.5);
+    color: #fff;
+}
+#t5
+{
+    height:100px;
+    width:350px;
+    background-color:rgba(46, 97, 132, 0.5);
+    color: #fff;  
+}
